@@ -22,11 +22,17 @@ section{
     padding: 60px 0;
 }
 
+fieldset{
+    padding: 10px;
+}
+.form-group{
+    margin-bottom: 15px;
+}
 /* footer stytle  */
 
 footer{
     width: 100%;
     padding: 20px 0;
-    background: #fafafa;
+    background: #8ecae2;
     text-align: center;
 }
