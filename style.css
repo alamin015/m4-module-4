@@ -28,6 +28,17 @@ fieldset{
 .form-group{
     margin-bottom: 15px;
 }
+
+table{
+    border-collapse: collapse;
+    border: 3px solid purple;
+    width: 600px;
+}
+table tr,td,th{
+    border: 3px solid purple;
+    padding: 3px;
+    text-align: center;
+}
 /* footer stytle  */
 
 footer{
